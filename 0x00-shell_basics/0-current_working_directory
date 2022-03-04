@@ -1,2 +1,5 @@
 #!/bin/bash
 listit
+
+
+echo $0
